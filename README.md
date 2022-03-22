@@ -1,5 +1,5 @@
-# Hyperledger-Composer-Projects
-Hyperledger Composer Projects Repository
+# Hyperledger Composer Projects
+This repository contains Hyperledger Composer-based projects.
 
 
 
